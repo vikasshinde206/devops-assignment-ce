@@ -13,7 +13,7 @@ The architecture is designed with a focus on:
 
 ## 🏗️ Architecture Diagram
 
-Architecture dia
+Architecture dia.png
 
 ---
 
